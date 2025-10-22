@@ -1,0 +1,21 @@
+{
+  "Tashkent": ["Urban", "Cultural", "Historical Sites", "Mountains", "Parks", "Bazaars", "Mosques"],
+  "Namangan": ["Urban", "Cultural", "Historical Sites", "Rivers", "Parks", "Bazaars", "Cotton"],
+  "Samarkand": ["Urban", "Cultural", "Historical Sites", "Registan", "Mausoleums", "Silk Road", "Mosques"],
+  "Andijan": ["Urban", "Cultural", "Historical Sites", "Rivers", "Parks", "Bazaars", "Markets"],
+  "Nukus": ["Urban", "Cultural", "Museums", "Deserts", "Rivers", "Savitsky Gallery", "Aral Sea Nearby"],
+  "Fergana": ["Urban", "Cultural", "Historical Sites", "Rivers", "Parks", "Bazaars", "Valleys"],
+  "Kokand": ["Urban", "Cultural", "Historical Sites", "Palaces", "Mosques", "Khans", "Rivers"],
+  "Qarshi": ["Urban", "Cultural", "Historical Sites", "Rivers", "Parks", "Madrasahs", "Deserts"],
+  "Bukhara": ["Urban", "Cultural", "Historical Sites", "Minarets", "Caravanserais", "Old Town", "UNESCO"],
+  "Margilan": ["Urban", "Cultural", "Historical Sites", "Silk Factories", "Bazaars", "Rivers", "Textiles"],
+  "Termez": ["Urban", "Cultural", "Historical Sites", "Buddhist Ruins", "Rivers", "Archaeology", "Deserts"],
+  "Jizzakh": ["Urban", "Cultural", "Historical Sites", "Mountains", "Rivers", "Parks", "Fortresses"],
+  "Angren": ["Urban", "Industrial", "Coal Mines", "Mountains", "Rivers", "Parks"],
+  "Chirchiq": ["Urban", "Industrial", "Rivers", "Canyons", "Parks", "Hydropower"],
+  "Navoiy": ["Urban", "Industrial", "Deserts", "Mining", "Airports", "Parks"],
+  "Urgench": ["Urban", "Cultural", "Historical Sites", "Rivers", "Bazaars", "Khiva Nearby"],
+  "Olmaliq": ["Urban", "Industrial", "Mining", "Rivers", "Parks", "Mountains"],
+  "Shahrisabz": ["Urban", "Cultural", "Historical Sites", "Ak-Saray Palace", "Mountains", "UNESCO"],
+  "Bekobod": ["Urban", "Industrial", "Rivers", "Cement Factories", "Parks", "Historical Sites"]
+}

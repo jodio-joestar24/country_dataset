@@ -1,0 +1,11 @@
+{
+"Acquaviva": ["Rural", "Historical Sites", "Castles", "Nature", "Panoramic Views", "Amusement Parks"],
+"Borgo Maggiore": ["Urban", "Cultural", "Museums", "Cable Car", "Shopping", "Historical Sites"],
+"Chiesanuova": ["Rural", "Historical Sites", "Towers", "Museums", "Mountains"],
+"City of San Marino": ["Urban", "Cultural", "Historical Sites", "Towers", "Basilica", "Museums", "Mountains"],
+"Domagnano": ["Rural", "Cultural", "Historical Sites", "Churches", "Panoramic Views", "Hills"],
+"Faetano": ["Rural", "Mountains", "Valleys", "Hiking", "Cultural", "Nature"],
+"Fiorentino": ["Rural", "Historical Sites", "Castles", "Hills", "Cultural"],
+"Montegiardino": ["Rural", "Historical Sites", "Quarries", "Industrial Ruins", "Hills", "Nature"],
+"Serravalle": ["Urban", "Cultural", "Shrines", "Rivers", "Historical Sites", "Shopping"]
+}

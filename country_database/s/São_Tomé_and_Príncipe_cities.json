@@ -1,0 +1,13 @@
+{
+"São Tomé": ["Urban", "Cultural", "Historical Sites", "Markets", "Port", "Beaches", "Fortresses", "Cathedral", "Cocoa Plantations"],
+"Santo Amaro": ["Urban", "Residential", "Cocoa Plantations", "Rainforests", "Rivers", "Historical Sites", "Forests"],
+"Neves": ["Coastal", "Beaches", "Fishing", "Markets", "Lagoons", "Snorkeling", "Industrial", "Ranches"],
+"Santana": ["Rural", "Forests", "Rivers", "Waterfalls", "Hiking", "Plantations", "Islands", "Surfing"],
+"Trindade": ["Urban", "Cultural", "Rainforests", "Beaches", "Snorkeling", "Diving", "Waterfalls", "Monte Café"],
+"Santa Cruz": ["Rural", "Beaches", "Cocoa Plantations", "Forests", "Mountains", "Nature Reserves"],
+"Pantufo": ["Urban", "Residential", "Markets", "Cultural", "Beaches Nearby", "Coastal"],
+"Guadalupe": ["Rural", "Beaches", "Markets", "Lush Landscapes", "Forests", "North Coast"],
+"Santo António": ["Urban", "Cultural", "Beaches", "National Parks", "Diving", "Rainforests", "Coral Reefs"],
+"Santa Catarina": ["Coastal", "Beaches", "Fishing", "Rivers", "Valleys", "Agriculture", "Plantations"],
+"Porto Alegre": ["Rural", "Secluded Beaches", "Fishing", "Port", "Coconut Groves", "Surfing", "Ilhéu das Rolas"]
+}

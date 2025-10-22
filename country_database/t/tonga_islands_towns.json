@@ -1,0 +1,13 @@
+{
+  "'Eua": ["Island", "Beaches", "Coral Reefs", "Hiking Trails", "Caves", "Whale Watching", "Forests", "Cliffs"],
+  "Ha'ano": ["Island", "Atoll", "Beaches", "Lagoon", "Coconut Groves", "Traditional Villages", "Fishing", "Snorkeling"],
+  "Ha'apai": ["Island Group", "Volcanic", "Beaches", "Lagoons", "Whale Watching", "Historical Sites", "Coral Gardens", "Kayaking"],
+  "Kao": ["Island", "Volcano", "Mountains", "Beaches", "Hiking", "Lava Fields", "Coral Reefs", "Bird Watching"],
+  "Lifuka": ["Island", "Beaches", "Historical Sites", "Churches", "Parks", "Fishing", "Canoeing", "Cultural Festivals"],
+  "Niuatoputapu": ["Island", "Volcanic", "Beaches", "Coral Reefs", "Hiking", "Hot Springs", "Traditional Crafts", "Diving"],
+  "Nukufetau": ["Atoll", "Beaches", "Lagoon", "Coconut Groves", "Fishing", "Snorkeling", "Bird Sanctuaries", "Marine Life"],
+  "Nuku'alofa": ["Urban", "Cultural", "Historical Sites", "Palaces", "Markets", "Beaches", "Harbors", "Nightlife"],
+  "Pangai": ["Town", "Cultural", "Historical Sites", "Markets", "Beaches", "Churches", "Fishing", "Whale Watching"],
+  "Tonga": ["Island Group", "Volcanic", "Beaches", "Coral Reefs", "Mountains", "Forests", "Diving", "Cultural Heritage"],
+  "Vava'u": ["Island Group", "Beaches", "Lagoons", "Kayaking", "Whale Watching", "Swim with Humpbacks", "Coral Reefs", "Sailing"]
+}

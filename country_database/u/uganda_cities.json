@@ -1,0 +1,22 @@
+{
+  "Kampala": ["Urban", "Cultural", "Historical Sites", "Lakes", "Rivers", "Nature", "Adventure", "Forests"],
+  "Nansana": ["Urban", "Mountains", "Lakes", "Nature", "Adventure"],
+  "Kira": ["Urban", "Cultural", "Historical Sites", "Lakes"],
+  "Ssabagabo": ["Urban", "Lakes", "Nature", "Mountains"],
+  "Mbarara": ["Urban", "Nature", "Rivers", "Lakes", "Cultural", "Historical Sites", "Forests", "Adventure"],
+  "Mukono": ["Urban", "Lakes", "Historical Sites"],
+  "Njeru": ["Urban", "Rivers", "Adventure", "Nature", "Lakes"],
+  "Gulu": ["Urban", "Historical Sites", "Cultural"],
+  "Lugazi": ["Urban", "Cultural", "Plains"],
+  "Masaka": ["Urban", "Cultural", "Historical Sites", "Lakes", "Nature"],
+  "Kasese": ["Urban", "Cultural", "Historical Sites", "Mountains", "Nature", "Lakes", "Rivers"],
+  "Hoima": ["Urban", "Cultural", "Historical Sites", "Lakes"],
+  "Lira": ["Urban", "Cultural", "Historical Sites", "Nature", "Adventure", "Mountains"],
+  "Mityana": ["Urban", "Cultural", "Lakes", "Nature", "Mountains"],
+  "Mubende": ["Urban", "Historical Sites", "Mountains", "Rivers"],
+  "Masindi": ["Urban", "Historical Sites", "Nature", "Rivers", "Adventure", "Forests"],
+  "Mbale": ["Urban", "Historical Sites", "Mountains", "Nature", "Rivers", "Forests", "Adventure", "Cultural"],
+  "Jinja": ["Urban", "Cultural", "Historical Sites", "Lakes", "Rivers", "Adventure", "Nature"],
+  "Entebbe": ["Urban", "Cultural", "Historical Sites", "Lakes", "Nature", "Adventure"],
+  "Kitgum": ["Urban", "Cultural", "Historical Sites", "Nature", "Mountains", "Adventure", "Rivers"]
+}

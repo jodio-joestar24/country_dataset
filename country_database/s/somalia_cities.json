@@ -1,0 +1,22 @@
+{
+"Mogadishu": ["Urban", "Cultural", "Historical Sites", "Beaches", "Markets", "Cathedrals", "Memorials", "Ports"],
+"Hargeisa": ["Urban", "Cultural", "Historical Sites", "Markets", "Caves", "Mountains", "Highlands", "Rock Art"],
+"Bosaso": ["Urban", "Cultural", "Historical Sites", "Coastal", "Ports", "Beaches", "Markets"],
+"Galkayo": ["Urban", "Cultural", "Historical Sites", "Museums", "National Parks", "Old Town", "Waterfalls", "Beaches", "Mountains"],
+"Baidoa": ["Urban", "Cultural", "Historical Sites", "Markets", "Stadiums", "Parks", "Mosques"],
+"Burao": ["Urban", "Cultural", "Historical Sites", "Markets", "Caves", "Mountains"],
+"Kismayo": ["Urban", "Cultural", "Historical Sites", "Ports", "Markets", "Rivers", "Mangroves", "National Parks", "Beaches"],
+"Garowe": ["Urban", "Cultural", "Historical Sites", "Markets"],
+"Berbera": ["Urban", "Cultural", "Historical Sites", "Ports", "Beaches", "Coastal"],
+"Afgoi": ["Urban", "Cultural", "Historical Sites", "Rivers", "Valleys"],
+"Marka": ["Urban", "Cultural", "Historical Sites", "Beaches", "Waterfront", "Old Town"],
+"Beledweyne": ["Urban", "Cultural", "Historical Sites", "Rivers", "Valleys", "Mountains", "Farms"],
+"Jowhar": ["Urban", "Cultural", "Historical Sites", "Rivers"],
+"Bardhere": ["Urban", "Cultural", "Historical Sites", "Rivers", "Valleys", "Highlands", "Farms"],
+"Qardho": ["Urban", "Cultural", "Historical Sites", "Mountains"],
+"Las Anod": ["Urban", "Cultural", "Historical Sites", "Mountains"],
+"Borama": ["Urban", "Cultural", "Historical Sites", "Hills", "Caves", "Markets", "Mountains"],
+"Adado": ["Urban", "Cultural", "Historical Sites", "Markets", "Mosques", "Deserts"],
+"Dusmareb": ["Urban", "Cultural", "Historical Sites"],
+"Abudwak": ["Urban", "Cultural", "Historical Sites", "Border Town"]
+}

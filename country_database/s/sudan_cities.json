@@ -1,0 +1,12 @@
+{
+"Omdurman": ["Urban", "Cultural", "Historical Sites", "Rivers", "Mosques", "Markets", "Camel Markets", "Tomb of the Mahdi", "Khalifa House Museum"],
+"Khartoum": ["Urban", "Cultural", "Historical Sites", "Rivers", "National Museums", "Confluence of Niles", "Parks", "Markets", "Presidential Palace", "Mosques"],
+"Khartoum North": ["Urban", "Industrial", "Rivers", "Railway Stations", "Markets", "Bridges"],
+"Nyala": ["Urban", "Cultural", "Historical Sites", "Markets", "Universities", "National Parks", "Volcanic Mountains"],
+"Port Sudan": ["Urban", "Coastal", "Ports", "Beaches", "Coral Reefs", "Diving Spots", "National Parks", "Archaeological Sites"],
+"El-Obeid": ["Urban", "Cultural", "Historical Sites", "Mosques", "Towers", "Cathedrals", "Markets"],
+"Kassala": ["Urban", "Cultural", "Historical Sites", "Mountains", "Mosques", "Markets", "Sufi Sites"],
+"Wad Madani": ["Urban", "Cultural", "Historical Sites", "Rivers", "Markets", "Agricultural Areas", "Parks"],
+"El-Gadarif": ["Urban", "Agricultural", "Markets", "Grain Silos", "Plains", "Mountains"],
+"Al-Fashir": ["Urban", "Cultural", "Historical Sites", "Markets", "Universities", "Airports", "Caravan Routes"]
+}

@@ -1,0 +1,21 @@
+{
+"Abyei": ["Urban", "Cultural", "Historical Sites", "Oil Fields", "Rivers", "Savanna"],
+"Akobo": ["Urban", "Cultural", "Historical Sites", "Rivers", "Wetlands", "Forests", "Border Town"],
+"Aweil": ["Urban", "Cultural", "Historical Sites", "Markets", "Museums", "National Parks", "Wetlands", "Savanna", "Agricultural Areas"],
+"Bentiu": ["Urban", "Cultural", "Historical Sites", "Rivers", "Oil Fields", "Floodplains"],
+"Bor": ["Urban", "Cultural", "Historical Sites", "Rivers", "National Parks", "Hills", "Wetlands", "Lakes"],
+"Gogrial": ["Urban", "Cultural", "Historical Sites", "Rivers", "Airports", "Savanna"],
+"Juba": ["Urban", "Cultural", "Historical Sites", "Rivers", "Markets", "Museums", "National Parks", "Mountains", "Lakes", "Mosques", "Cathedrals", "Hills"],
+"Kuajok": ["Urban", "Cultural", "Historical Sites", "Rivers", "Markets"],
+"Malakal": ["Urban", "Cultural", "Historical Sites", "Rivers", "Ports", "Wetlands", "Markets", "Mosques", "Churches"],
+"Nimule": ["Urban", "Cultural", "Historical Sites", "National Parks", "Rivers", "Lakes", "Rapids", "Border Town"],
+"Pajok": ["Urban", "Cultural", "Historical Sites", "Markets", "Border Town"],
+"Rumbek": ["Urban", "Cultural", "Historical Sites", "Markets", "Lakes", "Savanna", "Cattle Camps"],
+"Makol-Chuei": ["Rural", "Cultural", "Wetlands"],
+"Torit": ["Urban", "Cultural", "Historical Sites", "Mountains", "Forests", "Markets"],
+"Wau": ["Urban", "Cultural", "Historical Sites", "Rivers", "Zoos", "Cathedrals", "Markets", "National Parks"],
+"Wanyjok": ["Urban", "Cultural", "Historical Sites", "Markets", "Savanna"],
+"Yambio": ["Urban", "Cultural", "Historical Sites", "Forests", "Markets", "Agricultural Areas"],
+"Yei": ["Urban", "Cultural", "Historical Sites", "Rivers", "Markets", "Forests", "Border Town"],
+"Yirol": ["Urban", "Cultural", "Historical Sites", "Lakes", "Hills", "Rivers", "Museums"]
+}

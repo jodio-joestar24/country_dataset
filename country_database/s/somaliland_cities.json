@@ -1,0 +1,12 @@
+{
+"Hargeisa": ["Urban", "Cultural", "Historical Sites", "Mountains", "Hills", "Caves", "Rock Art", "Rivers", "Museums", "Markets", "Mosques", "Airports"],
+"Burao": ["Urban", "Cultural", "Historical Sites", "Rivers", "Wells", "Mountains", "Savannah", "Markets", "Airports"],
+"Borama": ["Urban", "Cultural", "Historical Sites", "Valleys", "Mountains", "Hills", "Fields", "Archaeological Sites", "Universities", "Airports"],
+"Berbera": ["Urban", "Cultural", "Historical Sites", "Ports", "Beaches", "Coastal", "Airports", "Ruins", "Markets", "Forts"],
+"Erigavo": ["Urban", "Cultural", "Historical Sites", "Highlands", "Forests", "Mountains", "Plateaus", "Markets", "Tombs", "Airports", "Agricultural Areas"],
+"Las Anod": ["Urban", "Cultural", "Historical Sites", "Valleys", "Hills", "Springs", "Markets", "Hospitals"],
+"Gabiley": ["Urban", "Cultural", "Historical Sites", "Cliffs", "Ridges", "Valleys", "Rock Art", "Libraries", "Agricultural Areas"],
+"Tog Wajaale": ["Urban", "Cultural", "Border Town", "Markets", "Roads"],
+"El Afweyn": ["Urban", "Cultural", "Historical Sites", "Caves", "Rock Art", "Ruins", "Mosques", "Plains", "Markets", "Wells", "Forests"],
+"Aynaba": ["Urban", "Cultural", "Historical Sites", "Wells", "Ruins", "Valleys"]
+}

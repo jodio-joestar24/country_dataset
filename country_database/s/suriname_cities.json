@@ -1,0 +1,12 @@
+{
+"Paramaribo": ["Urban", "Cultural", "Historical Sites", "Rivers", "Markets", "Museums", "Parks", "Fortresses", "Mosques", "Temples", "Ports"],
+"Lelydorp": ["Urban", "Cultural", "Historical Sites", "Parks", "Botanical Gardens", "Butterfly Parks", "Temples", "Markets", "Nature Reserves"],
+"Nieuw Nickerie": ["Urban", "Cultural", "Historical Sites", "Rivers", "Markets", "Beaches", "Nature Reserves", "Rice Fields", "Canals"],
+"Moengo": ["Urban", "Cultural", "Historical Sites", "Rivers", "Museums", "Festivals", "Mining Sites", "Rainforests", "Art Galleries"],
+"Nieuw Amsterdam": ["Urban", "Cultural", "Historical Sites", "Rivers", "Fortresses", "Museums", "Mosques", "Colonial Architecture"],
+"Mariënburg": ["Urban", "Cultural", "Historical Sites", "Rivers", "Sugar Plantations", "Factories", "Railways", "Monuments"],
+"Wageningen": ["Urban", "Cultural", "Historical Sites", "Rivers", "Botanical Gardens", "Agricultural Areas", "Railways", "Parks"],
+"Albina": ["Urban", "Cultural", "Historical Sites", "Rivers", "Markets", "Beaches", "Nature Reserves", "Border Town"],
+"Groningen": ["Urban", "Cultural", "Historical Sites", "Rivers", "Fortresses", "Markets", "Parks", "Railways"],
+"Brownsweg": ["Urban", "Cultural", "Historical Sites", "Rivers", "Reservoirs", "Nature Parks", "Mountains", "Rainforests"]
+}

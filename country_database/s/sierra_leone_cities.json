@@ -1,0 +1,22 @@
+{
+"Freetown": ["Urban", "Cultural", "Historical Sites", "Beaches", "Rivers", "Markets", "Museums", "National Parks", "Islands", "Mountains", "Forests"],
+"Bo": ["Urban", "Cultural", "Historical Sites", "Markets", "Universities", "Hospitals", "Rivers", "Forests", "Savanna"],
+"Kenema": ["Urban", "Cultural", "Historical Sites", "Rivers", "Markets", "National Parks", "Forests", "Hills", "Waterfalls"],
+"Makeni": ["Urban", "Cultural", "Historical Sites", "Markets", "Mosques", "Universities", "Mountains"],
+"Koidu": ["Urban", "Cultural", "Historical Sites", "Markets", "Mining Sites", "Clock Tower"],
+"Waterloo": ["Urban", "Cultural", "Historical Sites", "Beaches", "Mountains", "Rivers"],
+"Port Loko": ["Urban", "Cultural", "Historical Sites", "Markets", "Rivers", "Hills", "Dams"],
+"Kabala": ["Urban", "Cultural", "Historical Sites", "Mountains", "Caves", "Lakes", "Mosques"],
+"Lunsar": ["Urban", "Cultural", "Historical Sites", "Markets", "Mining Sites", "Hills"],
+"Magburaka": ["Urban", "Cultural", "Historical Sites", "Markets", "Mosques", "Hospitals"],
+"Kailahun": ["Urban", "Cultural", "Historical Sites", "Markets", "National Parks", "Forests", "Rainforests"],
+"Bonthe": ["Urban", "Cultural", "Historical Sites", "Islands", "Beaches", "Rivers", "Estuary", "Ports"],
+"Moyamba": ["Urban", "Cultural", "Historical Sites", "Hills", "Beaches", "Wetlands", "Rivers"],
+"Kambia": ["Urban", "Rural", "Cultural", "Historical Sites", "Markets", "Rivers"],
+"Pujehun": ["Urban", "Cultural", "Historical Sites", "Rivers", "Forests", "Beaches"],
+"Lungi": ["Urban", "Cultural", "Historical Sites", "Beaches", "Rivers", "Airports", "Islands"],
+"Segbwema": ["Urban", "Cultural", "Historical Sites", "Markets", "Mining Sites", "Mosques"],
+"Binkolo": ["Urban", "Cultural", "Historical Sites", "Markets", "Wildlife Sanctuaries", "Mountains", "Trails"],
+"Daru": ["Urban", "Cultural", "Historical Sites", "Mosques", "Rainforests", "National Parks"],
+"Falaba": ["Urban", "Rural", "Cultural", "Historical Sites", "Mosques", "Markets"]
+}

@@ -1,0 +1,18 @@
+{
+"Colombo": ["Urban", "Cultural", "Historical Sites", "Beaches", "Rivers", "Markets", "Museums", "Parks", "Temples", "Mosques", "Colonial Architecture"],
+"Dehiwala-Mount Lavinia": ["Urban", "Coastal", "Beaches", "Zoos", "Bird Sanctuaries", "Hot Springs", "Mosques", "Temples"],
+"Moratuwa": ["Urban", "Coastal", "Lakes", "Rivers", "Beaches", "Markets", "Temples", "Churches"],
+"Sri Jayawardenepura Kotte": ["Urban", "Cultural", "Historical Sites", "Lakes", "Parks", "Temples", "Museums"],
+"Negombo": ["Urban", "Coastal", "Beaches", "Lagoons", "Canals", "Fish Markets", "Fortresses", "Churches", "Temples"],
+"Kandy": ["Urban", "Cultural", "Historical Sites", "Lakes", "Mountains", "Temples", "Botanical Gardens", "Palaces"],
+"Kalmunai": ["Urban", "Coastal", "Beaches", "Markets", "Mosques", "Temples", "Lagoons"],
+"Vavuniya": ["Urban", "Cultural", "Historical Sites", "Forests", "National Parks", "Temples", "Museums"],
+"Trincomalee": ["Urban", "Coastal", "Beaches", "Bays", "Fortresses", "Temples", "Lighthouses"],
+"Batticaloa": ["Urban", "Coastal", "Beaches", "Lagoons", "Fortresses", "Temples", "Bridges"],
+"Matale": ["Urban", "Cultural", "Historical Sites", "Mountains", "Spice Gardens", "Temples", "Waterfalls"],
+"Katunayake": ["Urban", "Airports", "Museums", "Wetlands", "Beaches", "Lagoons"],
+"Dambulla": ["Urban", "Cultural", "Historical Sites", "Cave Temples", "Rock Fortresses", "National Parks"],
+"Kolonnawa": ["Urban", "Cultural", "Rivers", "Markets", "Temples"],
+"Anuradhapura": ["Urban", "Cultural", "Historical Sites", "Sacred Trees", "Stupas", "Ancient Cities"],
+"Ratnapura": ["Urban", "Cultural", "Historical Sites", "Gem Mines", "Mountains", "Waterfalls", "Temples"]
+}

@@ -1,0 +1,9 @@
+{
+  "Lusaka": ["Urban", "Cultural", "Historical Sites", "Museums", "Markets", "Nature", "Parks", "Rivers", "Wildlife", "Adventure", "Mining"],
+  "Kitwe": ["Urban", "Mining", "Historical Sites", "Rivers", "Parks", "Nature", "Wildlife", "Adventure", "Markets", "Cultural"],
+  "Ndola": ["Urban", "Mining", "Historical Sites", "Rivers", "Museums", "Parks", "Nature", "Adventure"],
+  "Livingstone": ["Urban", "Cultural", "Historical Sites", "Rivers", "Museums", "Nature", "Adventure", "Wildlife", "Mining"],
+  "Chipata": ["Urban", "Cultural", "Historical Sites", "Parks", "Rivers", "Markets", "Nature", "Adventure", "Wildlife"],
+  "Kabwe": ["Urban", "Historical Sites", "Mining", "Cultural", "Nature", "Rivers", "Parks"],
+  "Luanshya": ["Urban", "Cultural", "Historical Sites", "Mining", "Nature", "Adventure", "Wildlife", "Markets"]
+}

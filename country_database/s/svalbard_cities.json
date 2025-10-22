@@ -1,0 +1,12 @@
+{
+"Longyearbyen": ["Urban", "Cultural", "Historical Sites", "Glaciers", "Fjords", "Museums", "Research Stations", "Airports", "Mining Sites", "Polar Bear Habitats"],
+"Barentsburg": ["Urban", "Cultural", "Historical Sites", "Coal Mines", "Glaciers", "Fjords", "Socialist Realist Art", "Polar Bear Habitats"],
+"Ny-Ålesund": ["Urban", "Cultural", "Research Stations", "Glaciers", "Fjords", "Mountains", "Polar Bear Habitats"],
+"Hornsund": ["Research Stations", "Glaciers", "Fjords", "Polar Bear Habitats"],
+"Nybyen": ["Urban", "Cultural", "Historical Sites", "Glaciers", "Fjords"],
+"Sveagruva": ["Mining Sites", "Historical Sites", "Glaciers", "Fjords"],
+"Pyramiden": ["Cultural", "Historical Sites", "Abandoned Mines", "Glaciers", "Fjords", "Socialist Realist Art", "Polar Bear Habitats"],
+"Grumant": ["Historical Sites", "Abandoned Mines", "Glaciers", "Fjords"],
+"Bjørnøya": ["Research Stations", "Seabird Breeding Grounds", "Nature Reserves", "Polar Bear Habitats"],
+"Hopen": ["Research Stations", "Seabird Breeding Grounds", "Nature Reserves"]
+}

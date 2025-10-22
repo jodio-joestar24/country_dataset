@@ -1,0 +1,17 @@
+{
+"Auki": ["Urban", "Cultural", "Historical Sites", "Markets", "Beaches", "Lagoons", "Coastal"],
+"Buala": ["Urban", "Cultural", "Markets", "Mountains", "Rainforests"],
+"Gizo": ["Urban", "Cultural", "Historical Sites", "Beaches", "Coral Reefs", "Diving Spots"],
+"Honiara": ["Urban", "Cultural", "Historical Sites", "Rivers", "Markets", "Museums", "Beaches", "Parks", "Harbours", "Memorials", "Cathedrals", "Churches"],
+"Kamaosi": ["Rural", "Cultural", "Rainforests"],
+"Kirakira": ["Urban", "Cultural", "Markets", "Airports", "Beaches"],
+"Kologhona": ["Rural", "Cultural"],
+"Laovavasa": ["Rural", "Cultural"],
+"Lata": ["Urban", "Cultural", "Airports", "Beaches"],
+"Maniora": ["Rural", "Cultural", "Beaches"],
+"Munda": ["Urban", "Cultural", "Historical Sites", "Airports", "Lagoons", "Rainforests"],
+"Noro": ["Urban", "Industrial", "Historical Sites", "Beaches"],
+"Taro Island": ["Urban", "Cultural", "Beaches", "Viewpoints", "Rainforests"],
+"Tigoa": ["Urban", "Cultural", "Lakes", "Lagoons"],
+"Tulagi": ["Urban", "Cultural", "Historical Sites", "Beaches", "Shipwrecks", "Diving Spots"]
+}

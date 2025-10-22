@@ -1,0 +1,17 @@
+{
+  "Charlotte Amalie": ["Urban", "Cultural", "Historical Sites", "Parks", "Beaches", "Port", "Markets", "Nature", "Adventure"],
+  "Christiansted": ["Urban", "Cultural", "Historical Sites", "Beaches", "Parks", "Port", "Nature", "Adventure"],
+  "Frederiksted": ["Urban", "Cultural", "Historical Sites", "Beaches", "Port", "Nature", "Adventure"],
+  "Cruz Bay": ["Urban", "Cultural", "Historical Sites", "Beaches", "Parks", "Nature", "Adventure"],
+  "Coral Bay": ["Cultural", "Historical Sites", "Beaches", "Nature", "Adventure"],
+  "Red Hook": ["Urban", "Cultural", "Beaches", "Port", "Markets", "Nature", "Adventure"],
+  "Anna's Retreat": ["Urban", "Cultural", "Parks", "Nature"],
+  "Charlotte Amalie West": ["Urban", "Cultural", "Beaches", "Nature"],
+  "Sion Farm": ["Cultural", "Farms", "Nature"],
+  "Sunny Isle": ["Urban", "Cultural", "Markets", "Nature"],
+  "Golden Grove": ["Cultural", "Historical Sites", "Nature"],
+  "Grove Place": ["Cultural", "Nature"],
+  "La Grange": ["Cultural", "Nature"],
+  "Strawberry Hill": ["Cultural", "Nature", "Parks"],
+  "Teagues Bay": ["Beaches", "Nature", "Adventure"]
+}
