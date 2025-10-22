@@ -1,0 +1,22 @@
+{
+"Jerusalem": ["Urban", "Cultural", "Historical Sites", "Religious Sites", "Old City", "Dome of the Rock", "Church of the Holy Sepulchre", "Western Wall", "Mountains"],
+"Gaza City": ["Urban", "Cultural", "Historical Sites", "Beaches", "Ports", "Mosques", "Markets", "Coastal"],
+"Hebron": ["Urban", "Cultural", "Historical Sites", "Tomb of the Patriarchs", "Old City", "Glass Factories", "Mountains"],
+"Nablus": ["Urban", "Cultural", "Historical Sites", "Old City", "Mount Gerizim", "Soap Factories", "Markets", "Mountains"],
+"Jenin": ["Urban", "Cultural", "Historical Sites", "Refugee Camp", "The Freedom Theatre", "Agricultural Areas", "Hills"],
+"Bethlehem": ["Urban", "Cultural", "Historical Sites", "Church of the Nativity", "Banksy Wall", "Shepherd's Field", "Hills"],
+"Ramallah": ["Urban", "Cultural", "Historical Sites", "Yasser Arafat Mausoleum", "Al-Manara Square", "Museums", "Parks"],
+"Tulkarm": ["Urban", "Cultural", "Historical Sites", "Markets", "Agricultural Areas"],
+"Qalqilya": ["Urban", "Cultural", "Historical Sites", "Zoo", "Park", "Agricultural Areas", "Hills"],
+"Jericho": ["Urban", "Cultural", "Historical Sites", "Ancient Ruins", "Mount of Temptation", "Hisham's Palace", "Dead Sea", "Oases"],
+"Tubas": ["Urban", "Cultural", "Historical Sites", "Agricultural Areas", "Hills"],
+"Rafah": ["Urban", "Cultural", "Historical Sites", "Beaches", "Coastal", "Border Town"],
+"Sa'ir": ["Rural", "Cultural", "Historical Sites", "Hills"],
+"as-Samu": ["Rural", "Cultural", "Historical Sites", "Hills", "Farms"],
+"Surif": ["Rural", "Cultural", "Historical Sites", "Agricultural Areas", "Hills"],
+"Ya'bad": ["Rural", "Cultural", "Historical Sites", "Agricultural Areas"],
+"al-Yamun": ["Rural", "Cultural", "Historical Sites", "Agricultural Areas"],
+"Yatta": ["Rural", "Cultural", "Historical Sites", "Caves", "Hills"],
+"az-Zawayda": ["Rural", "Cultural", "Historical Sites", "Agricultural Areas"],
+"Qabatiya": ["Rural", "Cultural", "Historical Sites", "Agricultural Areas", "Hills"]
+}

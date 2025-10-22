@@ -1,0 +1,13 @@
+{
+  "Birgu": ["Urban", "Fortified City", "Cultural", "Historical Sites", "Harbor", "Museums", "Waterfront", "Festival"],
+  "Bormla": ["Urban", "Fortified City", "Cultural", "Historical Sites", "Harbor", "Religious Sites", "Dockyard"],
+  "Mdina": ["Fortified City", "Cultural", "Historical Sites", "Museums", "Cathedral", "Silent City"],
+  "Qormi": ["Urban", "Cultural", "Historical Sites", "Markets", "Religious Sites", "Bakeries"],
+  "Victoria": ["Urban", "Cultural", "Historical Sites", "Citadel", "Museums", "Gardens"],
+  "Senglea": ["Urban", "Fortified City", "Cultural", "Historical Sites", "Harbor", "Religious Sites"],
+  "Siġġiewi": ["Urban", "Cultural", "Historical Sites", "Valleys", "Woodlands", "Swimming Areas"],
+  "Valletta": ["Urban", "Cultural", "Historical Sites", "Fortifications", "Museums", "Theaters"],
+  "Żabbar": ["Urban", "Cultural", "Historical Sites", "Religious Sites", "Festivals", "Palace"],
+  "Żebbuġ": ["Urban", "Cultural", "Historical Sites", "Religious Sites", "Arch", "Palaces"],
+  "Żejtun": ["Urban", "Cultural", "Historical Sites", "Religious Sites", "Festivals", "Vineyards"]
+}

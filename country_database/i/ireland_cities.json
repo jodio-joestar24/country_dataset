@@ -1,0 +1,14 @@
+{
+  "Dublin": ["Urban", "Cultural", "Historical Sites", "Rivers", "Beaches", "Nature"],
+  "Limerick": ["Urban", "Cultural", "Historical Sites", "Rivers", "Nature"],
+  "Waterford": ["Urban", "Cultural", "Historical Sites", "Coastal", "Beaches"],
+  "Cork": ["Urban", "Cultural", "Historical Sites", "Coastal", "Rivers"],
+  "Galway": ["Urban", "Cultural", "Historical Sites", "Coastal", "Beaches"],
+  "Kilkenny": ["Urban", "Cultural", "Historical Sites", "Rivers", "Castles"],
+  "Derry": ["Urban", "Cultural", "Historical Sites", "Rivers", "Walls"],
+  "Belfast": ["Urban", "Cultural", "Historical Sites", "Rivers", "Harbor"],
+  "Armagh": ["Urban", "Cultural", "Historical Sites", "Hills"],
+  "Newry": ["Urban", "Cultural", "Rivers", "Mountains"],
+  "Lisburn": ["Urban", "Cultural", "Rivers"],
+  "Bangor": ["Urban", "Coastal", "Beaches", "Nature"]
+}

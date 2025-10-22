@@ -1,0 +1,16 @@
+{
+  "Makefu": ["Cultural", "Historical Sites", "Beaches", "Coral Reefs", "Traditional Villages"],
+  "Tuapa": ["Cultural", "Historical Sites", "Beaches", "Fishing", "Traditional Villages"],
+  "Namukulu": ["Cultural", "Nature", "Beaches", "Forests", "Traditional Villages"],
+  "Hikutavake": ["Cultural", "Historical Sites", "Beaches", "Coral Reefs", "Traditional Villages"],
+  "Toi": ["Cultural", "Nature", "Beaches", "Hiking Trails", "Traditional Villages"],
+  "Mutalau": ["Cultural", "Historical Sites", "Beaches", "Forests", "Traditional Villages"],
+  "Lakepa": ["Cultural", "Historical Sites", "Beaches", "Lime Caves", "Traditional Villages"],
+  "Liku": ["Cultural", "Nature", "Beaches", "Forests", "Traditional Villages"],
+  "Hakupu": ["Cultural", "Historical Sites", "Beaches", "Forests", "Traditional Villages"],
+  "Vaiea": ["Cultural", "Historical Sites", "Beaches", "Coral Reefs", "Traditional Villages"],
+  "Avatele": ["Cultural", "Historical Sites", "Beaches", "Lime Caves", "Traditional Villages"],
+  "Tamakautoga": ["Cultural", "Historical Sites", "Beaches", "Surfing", "Traditional Villages"],
+  "Alofi South": ["Urban", "Cultural", "Historical Sites", "Markets", "Museums"],
+  "Alofi North": ["Urban", "Cultural", "Historical Sites", "Markets", "Nature"]
+}

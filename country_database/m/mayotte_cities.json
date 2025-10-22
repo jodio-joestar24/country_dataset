@@ -1,0 +1,19 @@
+{
+  "Mamoudzou": ["Urban", "Cultural", "Historical Sites", "Markets", "Harbor", "Economic Center"],
+  "Koungou": ["Urban", "Cultural", "Markets", "Lagoon", "Residential"],
+  "Dzaoudzi": ["Urban", "Cultural", "Historical Sites", "Museum", "Island", "Former Capital"],
+  "Dembeni": ["Urban", "Cultural", "Rivers", "Forests", "Nature"],
+  "Bandrélé": ["Cultural", "Beaches", "Nature Reserves", "Lagoon", "Coastal"],
+  "Kani-Kéli": ["Cultural", "Beaches", "Nature", "Hiking", "Coastal"],
+  "Bouéni": ["Cultural", "Beaches", "Mangroves", "Nature", "Coastal"],
+  "Chirongui": ["Cultural", "Mountains", "Hiking", "Rock Climbing", "Nature Reserves"],
+  "Sada": ["Cultural", "Nature", "Forests", "Rural"],
+  "Ouangani": ["Cultural", "Rural", "Nature", "Forests"],
+  "Chiconi": ["Cultural", "Beaches", "Nature", "Coastal"],
+  "Tsingoni": ["Cultural", "Historical Sites", "Mosque", "Nature"],
+  "M'Tsangamouji": ["Cultural", "Mountains", "Nature", "Hiking"],
+  "Acoua": ["Cultural", "Historical Sites", "Nature", "Coastal"],
+  "Mtsamboro": ["Cultural", "Beaches", "Coral Reefs", "Fishing", "Island"],
+  "Bandraboua": ["Cultural", "Nature", "Coastal", "Forests"],
+  "Pamandzi": ["Urban", "Airport", "Beaches", "Lagoon", "Island"]
+}

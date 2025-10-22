@@ -1,0 +1,14 @@
+{
+  "Diekirch": ["Urban", "Cultural", "Historical Sites", "Rivers", "Caves", "Museums"],
+  "Differdange": ["Urban", "Cultural", "Historical Sites", "Rivers", "Parks", "Industrial"],
+  "Dudelange": ["Urban", "Cultural", "Historical Sites", "Rivers", "Steelworks", "Parks"],
+  "Echternach": ["Cultural", "Historical Sites", "Rivers", "Abbeys", "Hiking Trails", "Festivals"],
+  "Esch-sur-Alzette": ["Urban", "Cultural", "Historical Sites", "Rivers", "Museums", "Theaters"],
+  "Ettelbruck": ["Urban", "Cultural", "Historical Sites", "Rivers", "WWII Memorials", "Markets"],
+  "Grevenmacher": ["Cultural", "Historical Sites", "Rivers", "Vineyards", "Castles", "Wine Tasting"],
+  "Luxembourg": ["Urban", "Cultural", "Historical Sites", "Castles", "Forts", "Parks"],
+  "Remich": ["Cultural", "Historical Sites", "Rivers", "Vineyards", "Moselle Valley", "Wine Routes"],
+  "Rumelange": ["Cultural", "Historical Sites", "Rivers", "Mines", "Industrial Heritage", "Parks"],
+  "Vianden": ["Cultural", "Historical Sites", "Castles", "Rivers", "Mountains", "Cable Cars"],
+  "Wiltz": ["Cultural", "Historical Sites", "Rivers", "Castles", "Forests", "Festivals"]
+}

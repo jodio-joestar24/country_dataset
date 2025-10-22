@@ -1,0 +1,19 @@
+{
+  "Vientiane": ["Urban", "Cultural", "Historical Sites", "Rivers", "Temples"],
+  "Savannakhet": ["Urban", "Cultural", "Historical Sites", "Rivers", "Colonial Architecture"],
+  "Pakse": ["Urban", "Cultural", "Historical Sites", "Rivers", "Waterfalls"],
+  "Luang Prabang": ["Cultural", "Historical Sites", "Rivers", "Mountains", "Temples"],
+  "Xam Neua": ["Cultural", "Historical Sites", "Mountains", "Rivers", "Caves"],
+  "Phonsavan": ["Cultural", "Historical Sites", "Mountains", "Rivers", "Archaeological Sites"],
+  "Thakhek": ["Urban", "Cultural", "Historical Sites", "Rivers", "Caves"],
+  "Muang Xay": ["Urban", "Cultural", "Mountains", "Rivers", "Ethnic Villages"],
+  "Xaysomboun": ["Cultural", "Historical Sites", "Mountains", "Rivers", "Caves"],
+  "Pakxan": ["Urban", "Cultural", "Rivers", "Mountains", "Historical Sites"],
+  "Attapeu": ["Cultural", "Historical Sites", "Mountains", "Rivers", "Waterfalls"],
+  "Houayxay": ["Urban", "Cultural", "Rivers", "Mountains", "Jungle"],
+  "Luang Namtha": ["Cultural", "Historical Sites", "Mountains", "Rivers", "Jungle"],
+  "Phongsali": ["Cultural", "Historical Sites", "Mountains", "Rivers", "Tea Plantations"],
+  "Sainyabuli": ["Cultural", "Historical Sites", "Rivers", "Mountains", "Elephant Sanctuaries"],
+  "Salavan": ["Cultural", "Historical Sites", "Rivers", "Waterfalls", "Plateaus"],
+  "Sekong": ["Cultural", "Historical Sites", "Mountains", "Rivers", "Waterfalls"]
+}

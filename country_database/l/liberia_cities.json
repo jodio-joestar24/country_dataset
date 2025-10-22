@@ -1,0 +1,15 @@
+{
+  "Monrovia": ["Urban", "Cultural", "Historical Sites", "Beaches", "Providence Island", "Markets"],
+  "Gbarnga": ["Cultural", "Historical Sites", "Rivers", "Forests", "Rubber Plantations", "Educational Centers"],
+  "Kakata": ["Cultural", "Historical Sites", "Rivers", "Forests", "Rubber Plantations", "Educational Institutions"],
+  "Bensonville": ["Urban", "Cultural", "Rivers", "Markets", "Agricultural Areas", "Suburbs"],
+  "Harper": ["Urban", "Cultural", "Beaches", "Historical Sites", "Cape Palmas", "Lakes"],
+  "Voinjama": ["Cultural", "Historical Sites", "Rivers", "Forests", "Border Towns", "Markets"],
+  "Buchanan": ["Urban", "Cultural", "Beaches", "Port", "Rivers", "Historical Sites"],
+  "Zwedru": ["Cultural", "Historical Sites", "Rivers", "Forests", "Agricultural Areas", "Markets"],
+  "New Yekepa": ["Urban", "Industrial", "Mining Areas", "Forests", "Rivers", "Mountains"],
+  "Greenville": ["Cultural", "Historical Sites", "Beaches", "Forests", "Rivers", "Fishing"],
+  "Ganta": ["Urban", "Cultural", "Markets", "Rivers", "Forests", "Border Towns"],
+  "Robertsport": ["Cultural", "Beaches", "Surfing Spots", "Rivers", "Forests", "Lighthouses"],
+  "Sanniquellie": ["Cultural", "Historical Sites", "Rivers", "Forests", "Mining", "Markets"]
+}

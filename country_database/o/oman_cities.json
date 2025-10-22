@@ -1,0 +1,21 @@
+{
+  "Seeb": ["beach", "park", "nature reserve", "island", "aquarium", "museum"],
+  "Bawshar": ["sea", "park", "mosque", "sand dune", "sports complex", "market"],
+  "Salalah": ["beach", "waterfall", "museum", "cave", "nature reserve", "mosque", "mountain"],
+  "Matrah": ["market", "corniche", "fort", "palace", "museum", "mosque"],
+  "Sohar": ["village", "mosque", "fort", "market", "beach", "castle"],
+  "Al Amerat": ["valley", "cave", "beach", "mosque", "park"],
+  "Al Buraimi": ["park", "ancient ruin", "fort", "mosque", "mountain"],
+  "Sur": ["museum", "beach", "nature reserve", "fort", "castle"],
+  "Ja'alan Bani Bu Ali": ["castle", "fort", "mosque", "mountain", "cave"],
+  "Nizwa": ["mountain", "fort", "market", "ruin", "valley", "castle"],
+  "Al Khaburah": ["park", "castle", "fort", "mosque", "garden"],
+  "As Suwayq": ["village", "fort", "mosque", "gulf", "mountain"],
+  "Ibri": ["valley", "castle", "market", "mosque", "palace"],
+  "Rustaq": ["castle", "fort", "hot spring", "waterfall", "mosque", "park"],
+  "Bahla": ["fort", "cave", "mountain", "oasis"],
+  "Barka": ["historic site", "beach", "zoo", "market"],
+  "Ja'alan Bani Bu Hassan": ["oasis", "spring", "cave", "mountain", "archaeological site"],
+  "Quriyat": ["valley", "cave", "park", "fort", "beach"],
+  "Ibra": ["park", "mosque", "ruin", "valley"]
+}

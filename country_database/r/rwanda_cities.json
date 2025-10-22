@@ -1,0 +1,21 @@
+{
+  "Kigali": ["hill", "valley", "museum", "memorial", "market", "art gallery", "stadium"],
+  "Gisenyi": ["lake", "beach", "hot spring", "mountain", "island", "trail", "volcano"],
+  "Ruhengeri": ["national park", "volcano", "lake", "cave", "hill"],
+  "Butare": ["museum", "cathedral", "university", "hill"],
+  "Muhanga": ["hill", "eco-village", "design center"],
+  "Byumba": ["national park", "church", "volcano", "mountain"],
+  "Cyangugu": ["lake", "hot spring", "national park", "forest"],
+  "Nyanza": ["museum", "palace"],
+  "Bugarama": ["hot spring"],
+  "Kayonza": ["national park"],
+  "Rwamagana": ["hill", "market"],
+  "Nyamata": ["memorial", "church"],
+  "Ruhango": ["hill"],
+  "Gikongoro": ["memorial"],
+  "Nyagatare": ["national park"],
+  "Busogo": ["national park", "volcano"],
+  "Kibuye": ["lake", "beach", "island", "trail", "rock", "waterfall"],
+  "Kibungo": ["national park", "hot spring", "river"],
+  "Rubengera": ["lake"]
+}

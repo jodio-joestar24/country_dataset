@@ -1,0 +1,22 @@
+{
+  "Auckland": ["Urban", "Cultural", "Beaches", "Harbor", "Volcanoes", "Museums"],
+  "Christchurch": ["Urban", "Cultural", "Historical Sites", "Gardens", "Rivers", "Adventure"],
+  "Wellington": ["Urban", "Cultural", "Museums", "Windy", "Harbours", "Hiking"],
+  "Hamilton": ["Urban", "Cultural", "Rivers", "Gardens", "Waterfalls", "Adventure"],
+  "Tauranga": ["Urban", "Beaches", "Harbor", "Mountains", "Cultural", "Fishing"],
+  "Lower Hutt": ["Urban", "Cultural", "Rivers", "Nature", "Hiking", "Historical Sites"],
+  "Dunedin": ["Urban", "Cultural", "Historical Sites", "Wildlife", "Beaches", "Universities"],
+  "Palmerston North": ["Urban", "Cultural", "Rivers", "Nature", "Museums", "Adventure"],
+  "Hibiscus Coast": ["Beaches", "Nature", "Harbor", "Golf", "Cultural", "Fishing"],
+  "Napier": ["Cultural", "Art Deco", "Beaches", "Wineries", "Historical Sites", "Gardens"],
+  "New Plymouth": ["Urban", "Beaches", "Mountains", "Cultural", "Gardens", "Adventure"],
+  "Porirua": ["Urban", "Cultural", "Harbor", "Beaches", "Nature", "Historical Sites"],
+  "Rotorua": ["Cultural", "Geothermal", "Lakes", "Forests", "Adventure", "Maori"],
+  "Whangārei": ["Urban", "Cultural", "Beaches", "Waterfalls", "Harbor", "Nature"],
+  "Nelson": ["Urban", "Beaches", "Nature", "Markets", "Wineries", "Adventure"],
+  "Invercargill": ["Urban", "Cultural", "Historical Sites", "Nature", "Wildlife", "Museums"],
+  "Hastings": ["Cultural", "Wineries", "Rivers", "Nature", "Historical Sites", "Fruit Orchards"],
+  "Upper Hutt": ["Urban", "Nature", "Rivers", "Hiking", "Cultural", "Adventure"],
+  "Whanganui": ["Urban", "Cultural", "Rivers", "Historical Sites", "Art", "Nature"],
+  "Gisborne": ["Beaches", "Surfing", "Wineries", "Cultural", "Historical Sites", "Nature"]
+}

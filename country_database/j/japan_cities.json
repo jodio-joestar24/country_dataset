@@ -1,0 +1,12 @@
+{
+  "Nagoya": ["castle", "shrine", "temple", "museum", "garden", "zoo", "aquarium", "amusement park"],
+  "Toyohashi": ["castle", "park", "zoo", "botanical garden", "museum", "tram", "beach", "cherry blossom"],
+  "Okazaki": ["castle", "park", "shrine", "museum", "garden", "temple", "cherry blossom"],
+  "Ichinomiya": ["shrine", "tower", "museum", "park", "observation deck", "historic site", "festival"],
+  "Seto": ["ceramics museum", "shrine", "gallery", "walking path", "pottery kiln", "art museum"],
+  "Handa": ["canal", "museum", "red brick building", "shrine", "garden", "brewery", "historic warehouse"],
+  "Kasugai": ["park", "temple", "shrine", "museum", "cherry blossom", "zoo"],
+  "Toyokawa": ["shrine", "temple", "park", "embankment", "historic street", "cherry blossom", "pagoda"],
+  "Tsushima": ["shrine", "beach", "wildlife center", "leopard cat", "historical site", "temple"],
+  "Hekinan": ["aquarium", "park", "museum", "temple", "contemporary art", "beach"]
+}

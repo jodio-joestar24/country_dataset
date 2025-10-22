@@ -1,0 +1,22 @@
+{
+  "Lilongwe": ["Urban", "Cultural", "Historical Sites", "Markets", "Nature", "Government"],
+  "Blantyre": ["Urban", "Cultural", "Historical Sites", "Markets", "Mountains", "Commerce"],
+  "Mzuzu": ["Urban", "Cultural", "Markets", "Nature", "Forests", "Northern Highlands"],
+  "Zomba": ["Urban", "Cultural", "Historical Sites", "Forests", "Plateau", "Colonial Architecture"],
+  "Kasungu": ["Cultural", "Nature", "Forests", "Wildlife", "National Park"],
+  "Salima": ["Cultural", "Nature", "Lake", "Beaches", "Fishing"],
+  "Mangochi": ["Cultural", "Nature", "Lake", "Beaches", "Islands"],
+  "Karonga": ["Urban", "Cultural", "Nature", "Lake", "Prehistoric Sites"],
+  "Nkhotakota": ["Cultural", "Nature", "Lake", "Forests", "Wildlife Reserve"],
+  "Li Longwe": ["Urban", "Cultural", "Historical Sites", "Markets", "Nature", "Government"],
+  "Balaka": ["Cultural", "Nature", "Forests"],
+  "Chikwawa": ["Cultural", "Nature", "Rivers", "Forests"],
+  "Dedza": ["Cultural", "Nature", "Mountains", "Pottery", "Forests"],
+  "Dowa": ["Rural", "Nature", "Forests"],
+  "Livingstonia": ["Historical Sites", "Cultural", "Missionary History", "Nature"],
+  "Machinga": ["Cultural", "Nature", "Forests"],
+  "Mulanje": ["Nature", "Mountains", "Hiking", "Tea Plantations"],
+  "Mwanza": ["Rural", "Nature", "Forests"],
+  "Nkhata Bay": ["Cultural", "Nature", "Lake", "Beaches", "Diving"],
+  "Nsanje": ["Cultural", "Nature", "Rivers", "Wildlife"]
+}

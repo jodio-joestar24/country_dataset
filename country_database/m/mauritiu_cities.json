@@ -1,0 +1,15 @@
+{
+  "Port Louis": ["Urban", "Cultural", "Historical Sites", "Markets", "Harbor", "Museums", "Waterfront"],
+  "Vacoas-Phoenix": ["Urban", "Cultural", "Markets", "Suburbs", "Gardens", "Shopping"],
+  "Beau Bassin-Rose Hill": ["Urban", "Cultural", "Markets", "Suburbs", "Parks"],
+  "Curepipe": ["Urban", "Cultural", "Botanical Gardens", "Volcano Crater", "Markets", "Tea Plantations"],
+  "Quatre Bornes": ["Urban", "Cultural", "Markets", "Shopping", "Suburbs"],
+  "Grand Baie": ["Coastal", "Beaches", "Nightlife", "Watersports", "Yachting", "Resorts"],
+  "Flic en Flac": ["Coastal", "Beaches", "Diving", "Snorkeling", "Resorts", "Watersports"],
+  "Ebene": ["Urban", "Modern Business District", "Cybercity", "Shopping Malls", "Offices"],
+  "Belle Mare": ["Coastal", "Beaches", "Resorts", "Golf Courses", "Watersports"],
+  "Cap Malheureux": ["Coastal", "Beaches", "Church", "Fishing Village", "Scenic Views"],
+  "Bel Ombre": ["Coastal", "Beaches", "Nature Reserves", "Golf", "Luxury Resorts"],
+  "Trou d'Eau Douce": ["Coastal", "Beaches", "Fishing Village", "Boat Trips", "Islands Nearby"],
+  "Mahebourg": ["Coastal", "Historical Sites", "Waterfront", "Markets", "Museum", "Lagoon"]
+}

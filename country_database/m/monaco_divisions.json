@@ -1,0 +1,11 @@
+{
+  "Monaco-Ville": ["Fortified Old Town", "Cultural", "Historical Sites", "Prince's Palace", "Ramparts", "Gardens", "Cathedral", "Rocky Promontory", "Mediterranean Views"],
+  "Ravin de Sainte-Dévote": ["Ravine", "Cultural", "Chapel", "Train Station", "Nature", "Urban Green Space"],
+  "Monte-Carlo": ["Urban", "Luxury", "Casino", "Grand Prix Circuit", "Escarpment", "Maritime Alps", "French Riviera Atmosphere", "High-Rise Buildings"],
+  "Fontvieille": ["Urban", "Industrial", "Residential", "Reclaimed Land", "Harbour", "Stadium", "Modern Architecture"],
+  "La Condamine": ["Urban", "Port Area", "Cultural", "Markets", "Waterfront", "Distinct Atmosphere"],
+  "Larvotto": ["Urban", "Beach", "Esplanade", "Coastal", "Promenade", "Seaside Views"],
+  "Jardin Exotique": ["Botanical Garden", "Caves", "Nature", "Highest Point", "Exotic Plants", "Panoramic Views"],
+  "La Rousse": ["Urban", "Residential", "Modern Buildings", "Quiet Atmosphere"],
+  "Les Moneghetti": ["Urban", "Residential", "High-Level Area", "Distinct Atmosphere", "Hillside Views"]
+}

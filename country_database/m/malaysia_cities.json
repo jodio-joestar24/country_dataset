@@ -1,0 +1,22 @@
+{
+  "George Town": ["Urban", "Cultural", "Historical Sites", "Colonial Architecture", "Street Food", "UNESCO Heritage"],
+  "Kuala Lumpur": ["Urban", "Cultural", "Modern Skyscrapers", "Shopping Malls", "Markets", "Nightlife"],
+  "Ipoh": ["Urban", "Cultural", "Cave Temples", "Street Art", "Colonial Architecture", "Food"],
+  "Kuching": ["Urban", "Cultural", "Historical Sites", "Cat Museum", "Waterfront", "Rainforests"],
+  "Johor Bahru": ["Urban", "Cultural", "Shopping", "Theme Parks", "Beaches", "Border Town"],
+  "Putrajaya": ["Urban", "Modern Architecture", "Government Buildings", "Lakes", "Mosques", "Gardens"],
+  "Kota Kinabalu": ["Urban", "Cultural", "Beaches", "Markets", "Mountains", "Seafood"],
+  "Sandakan": ["Urban", "Cultural", "Historical Sites", "Wildlife", "Beaches", "Markets"],
+  "Miri": ["Urban", "Cultural", "Beaches", "Oil Industry", "Cave Parks", "Diving"],
+  "Alor Setar": ["Urban", "Cultural", "Historical Sites", "Rice Fields", "Paddy Plantations", "Mosques"],
+  "Shah Alam": ["Urban", "Cultural", "Blue Mosque", "Parks", "Lakes", "Modern Architecture"],
+  "Petaling Jaya": ["Urban", "Cultural", "Shopping", "Nightlife", "Parks", "Suburbs"],
+  "Subang Jaya": ["Urban", "Cultural", "Shopping Malls", "Universities", "Parks", "Suburbs"],
+  "Klang": ["Urban", "Cultural", "Historical Sites", "Markets", "Rivers", "Industrial"],
+  "Seremban": ["Urban", "Cultural", "Historical Sites", "Food", "Mountains", "Markets"],
+  "Melaka": ["Urban", "Cultural", "Historical Sites", "Colonial Architecture", "UNESCO Heritage", "Rivers"],
+  "Teluk Intan": ["Urban", "Cultural", "Leaning Tower", "Rivers", "Historical Sites"],
+  "Sungai Petani": ["Urban", "Cultural", "Rice Fields", "Markets", "Paddy Plantations"],
+  "Kuala Terengganu": ["Urban", "Cultural", "Beaches", "Islands", "Mosques", "Markets"],
+  "Kota Bharu": ["Urban", "Cultural", "Markets", "Historical Sites", "Beaches", "Kite Flying"]
+}

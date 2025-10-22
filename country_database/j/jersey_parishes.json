@@ -1,0 +1,14 @@
+{
+  "St Helier": ["beach", "castle", "museum", "maritime museum", "market", "harbor", "fort", "gallery", "park"],
+  "Grouville": ["beach", "castle", "museum", "golf course", "oyster farm", "passage grave", "nature reserve"],
+  "St Brelade": ["beach", "war tunnels", "church", "lighthouse", "lavender farm", "adventure park"],
+  "St Clement": ["botanic garden", "manor house", "beach", "round tower", "golf course"],
+  "St John": ["bay", "beach", "fort", "church", "cafe"],
+  "St Lawrence": ["war tunnels", "country life museum", "watermill", "park", "orchard"],
+  "St Martin": ["castle", "harbor", "orchid foundation", "zoo", "gift shop"],
+  "St Mary": ["devil's hole", "vineyard", "lavender farm", "windmill", "church"],
+  "St Ouen": ["beach", "golf course", "castle ruins", "wetlands", "racecourse"],
+  "St Peter": ["zoo", "adventure park", "windmill", "watermill", "airport", "golf club"],
+  "St Saviour": ["museum", "showground", "church", "spa", "lido"],
+  "Trinity": ["zoo", "orchid sanctuary", "showground", "fort", "dolmen"]
+}

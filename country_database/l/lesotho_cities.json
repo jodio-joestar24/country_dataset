@@ -1,0 +1,13 @@
+{
+  "Maseru": ["Urban", "Cultural", "Historical Sites", "Rivers", "Mountains", "Markets"],
+  "Teyateyaneng": ["Cultural", "Historical Sites", "Rivers", "Mountains", "Textile Mills", "Craft Markets"],
+  "Mafeteng": ["Urban", "Cultural", "Historical Sites", "Rivers", "Mountains", "Border Towns"],
+  "Hlotse": ["Urban", "Cultural", "Historical Sites", "Rivers", "Mountains", "Bridges"],
+  "Mohale's Hoek": ["Urban", "Cultural", "Historical Sites", "Rivers", "Mountains", "Agricultural Plains"],
+  "Maputsoe": ["Urban", "Cultural", "Rivers", "Mountains", "Border Towns", "Textile Industry"],
+  "Qacha's Nek": ["Cultural", "Historical Sites", "Mountains", "Passes", "Border Towns", "Nature Trails"],
+  "Quthing": ["Cultural", "Historical Sites", "Rivers", "Mountains", "Dinosaur Footprints", "Caves"],
+  "Butha-Buthe": ["Cultural", "Historical Sites", "Mountains", "Passes", "Lodge Resorts", "Hiking Trails"],
+  "Mokhotlong": ["Cultural", "Historical Sites", "Mountains", "Plateaus", "Rivers", "Remote Villages"],
+  "Thaba-Tseka": ["Cultural", "Historical Sites", "Mountains", "Rivers", "Hydroelectric Dams", "Forests"]
+}

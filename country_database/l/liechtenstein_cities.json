@@ -1,0 +1,13 @@
+{
+  "Ruggell": ["Cultural", "Historical Sites", "Rivers", "Marshes", "Nature Reserves", "Hiking Trails"],
+  "Schellenberg": ["Cultural", "Historical Sites", "Castles", "Hills", "Forests", "Archaeological Sites"],
+  "Gamprin": ["Cultural", "Historical Sites", "Rivers", "Churches", "Hiking Trails", "Parks"],
+  "Eschen": ["Cultural", "Historical Sites", "Rivers", "Churches", "Hiking Trails", "Vineyards"],
+  "Mauren": ["Cultural", "Historical Sites", "Rivers", "Churches", "Craft Workshops", "Parks"],
+  "Schaan": ["Urban", "Cultural", "Historical Sites", "Rivers", "Theaters", "Museums"],
+  "Planken": ["Cultural", "Historical Sites", "Mountains", "Forests", "Hiking Trails", "Panoramic Views"],
+  "Vaduz": ["Urban", "Cultural", "Historical Sites", "Castles", "Museums", "Rivers"],
+  "Triesenberg": ["Cultural", "Historical Sites", "Mountains", "Ski Resorts", "Hiking Trails", "Alpine Villages"],
+  "Triesen": ["Cultural", "Historical Sites", "Rivers", "Churches", "Hiking Trails", "Parks"],
+  "Balzers": ["Cultural", "Historical Sites", "Castles", "Rivers", "Vineyards", "Hiking Trails"]
+}

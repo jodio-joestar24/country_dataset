@@ -1,0 +1,14 @@
+{
+  "Majuro": ["Urban", "Cultural", "Historical Sites", "Beaches", "Lagoons", "Museums", "Airport", "Capital"],
+  "Ebeye": ["Urban", "Densely Populated", "Beaches", "Diving", "Markets", "US Base Nearby"],
+  "Arno": ["Atoll", "Beaches", "Snorkeling", "Nature", "Villages", "Lagoon"],
+  "Jabor": ["Village", "Historical Sites", "WWII Relics", "Lagoon", "Fishing", "Cultural"],
+  "Wotje": ["Atoll", "Beaches", "WWII Sites", "Nature", "Diving"],
+  "Mili": ["Atoll", "Beaches", "Diving", "Nature", "WWII Relics"],
+  "Namdrik": ["Atoll", "Beaches", "Nature", "Fishing"],
+  "Ebon": ["Atoll", "Beaches", "Nature", "Cultural"],
+  "Kili": ["Island", "Beaches", "Nature", "Bikini Resettlement", "Cultural"],
+  "Likiep": ["Atoll", "Beaches", "Nature", "Diving"],
+  "Ailuk": ["Atoll", "Beaches", "Nature", "Fishing"],
+  "Ujae": ["Atoll", "Beaches", "Nature", "Cultural"]
+}
