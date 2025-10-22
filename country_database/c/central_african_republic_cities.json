@@ -1,0 +1,16 @@
+{
+  "Bangui": ["Urban", "Cultural", "Historical Sites", "Rivers", "Museums", "Parks", "Markets", "Waterfalls"],
+  "Bimbo": ["Urban", "Cultural", "Historical Sites", "Rivers", "Markets", "Nature Reserves", "Prisons"],
+  "Berbérati": ["Urban", "Cultural", "Historical Sites", "Markets", "Forests", "Colonial Buildings"],
+  "Carnot": ["Rural", "Rivers", "Historical Sites", "Markets", "Mosques"],
+  "Bambari": ["Urban", "Cultural", "Historical Sites", "Markets", "Churches", "Rock Paintings"],
+  "Bouar": ["Urban", "Cultural", "Historical Sites", "Megaliths", "Markets", "Plateaus"],
+  "Bossangoa": ["Urban", "Cultural", "Historical Sites", "Cathedrals", "Markets"],
+  "Bria": ["Urban", "Cultural", "Historical Sites", "Markets", "Savannas"],
+  "Bangassou": ["Urban", "Cultural", "Historical Sites", "Rivers", "Cathedrals", "Wildlife"],
+  "Nola": ["Rural", "Rivers", "Cultural", "Historical Sites", "Forests"],
+  "Kaga-Bandoro": ["Urban", "Cultural", "Historical Sites", "Markets", "Plateaus"],
+  "Sibut": ["Urban", "Cultural", "Historical Sites", "Markets", "Rivers"],
+  "Mbaïki": ["Urban", "Cultural", "Historical Sites", "Pygmy Villages", "Rainforests"],
+  "Bozoum": ["Rural", "Cultural", "Historical Sites", "Markets", "Churches"]
+}

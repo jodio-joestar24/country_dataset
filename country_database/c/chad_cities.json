@@ -1,0 +1,12 @@
+{
+  "N'Djamena": ["Urban", "Cultural", "Historical Sites", "Rivers", "Museums", "Parks", "Markets", "Mosques", "Cathedrals"],
+  "Moundou": ["Urban", "Cultural", "Historical Sites", "Rivers", "Markets", "Breweries", "Festivals"],
+  "Sarh": ["Urban", "Cultural", "Historical Sites", "Rivers", "Markets", "Wildlife Parks", "Rock Paintings"],
+  "Abéché": ["Urban", "Cultural", "Historical Sites", "Palaces", "Mosques", "Tombs", "Markets"],
+  "Kélo": ["Urban", "Cultural", "Historical Sites", "Markets", "Rock Paintings", "Waterfalls", "Reserves"],
+  "Koumra": ["Urban", "Cultural", "Historical Sites", "Markets", "Rivers"],
+  "Pala": ["Urban", "Cultural", "Historical Sites", "Markets", "Rivers"],
+  "Am Timan": ["Urban", "Cultural", "Historical Sites", "Markets", "Rivers", "National Parks"],
+  "Mongo": ["Urban", "Cultural", "Historical Sites", "Markets", "Mountains"],
+  "Bongor": ["Urban", "Cultural", "Historical Sites", "Markets", "Rivers", "Palaces"]
+}

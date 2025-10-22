@@ -1,0 +1,12 @@
+{
+  "Bujumbura": ["Urban", "Cultural", "Historical Sites", "National Parks", "Lakes", "Waterfalls", "Monuments", "Museums", "Markets"],
+  "Gitega": ["Urban", "Cultural", "Museums", "Historical Sites", "Mountains", "Rivers", "National Parks", "Royal Grounds"],
+  "Muyinga": ["Urban", "Cultural", "Nature", "Lakes", "Waterfalls", "National Parks"],
+  "Ngozi": ["Urban", "Cultural", "Waterfalls", "Historical Sites", "Nature", "Rainforests"],
+  "Ruyigi": ["Urban", "Cultural", "Hills", "National Parks", "Mountains", "Nature"],
+  "Kayanza": ["Urban", "Cultural", "Waterfalls", "Rainforests", "Nature", "Hiking Trails"],
+  "Bururi": ["Urban", "Cultural", "Forests", "Nature Reserves", "Lakes", "Historical Sites", "National Parks"],
+  "Muramvya": ["Urban", "Cultural", "Religious Sites", "Hills", "Markets", "Nature"],
+  "Makamba": ["Urban", "Cultural", "Mountains", "Parks", "Forests", "Nature"],
+  "Rumonge": ["Urban", "Cultural", "Beaches", "Lakes", "Forests", "Nature Reserves", "Outdoor Activities"]
+}

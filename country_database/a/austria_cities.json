@@ -1,0 +1,23 @@
+{
+  "Vienna": ["Cultural", "Historical Sites", "Urban", "Rivers", "Museums"],
+  "Graz": ["Cultural", "Historical Sites", "Urban", "Rivers", "Architecture"],
+  "Linz": ["Cultural", "Urban", "Rivers", "Historical Sites", "Museums"],
+  "Salzburg": ["Mountains", "Historical Sites", "Cultural", "Music", "Lakes"],
+  "Innsbruck": ["Mountains", "Adventure", "Ski Resorts", "Cultural", "Historical Sites"],
+  "Klagenfurt am Wörthersee": ["Lakes", "Cultural", "Nature", "Historical Sites"],
+  "Sankt Pölten": ["Cultural", "Historical Sites", "Rivers", "Urban"],
+  "Bregenz": ["Lakes", "Cultural", "Mountains", "Historical Sites"],
+  "Eisenstadt": ["Cultural", "Historical Sites", "Wine Regions", "Nature"],
+  "Villach": ["Lakes", "Mountains", "Adventure", "Cultural"],
+  "Wels": ["Cultural", "Historical Sites", "Urban"],
+  "Wiener Neustadt": ["Historical Sites", "Cultural", "Urban"],
+  "Steyr": ["Historical Sites", "Cultural", "Rivers", "Mountains"],
+  "Feldkirch": ["Historical Sites", "Cultural", "Mountains"],
+  "Dornbirn": ["Cultural", "Nature", "Mountains", "Urban"],
+  "Leonding": ["Urban", "Cultural", "Nature"],
+  "Klosterneuburg": ["Historical Sites", "Cultural", "Wine Regions", "Rivers"],
+  "Baden": ["Thermal Springs", "Cultural", "Historical Sites", "Nature"],
+  "Wolfsberg": ["Cultural", "Nature", "Mountains"],
+  "Leoben": ["Cultural", "Mountains", "Historical Sites"],
+  "Krems an der Donau": ["Rivers", "Wine Regions", "Historical Sites", "Cultural"]
+}

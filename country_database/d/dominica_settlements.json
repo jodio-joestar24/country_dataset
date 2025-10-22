@@ -1,0 +1,22 @@
+{
+  "Roseau": ["botanical garden", "cathedral", "museum", "market", "waterfall", "hill", "volcano", "hot spring", "river", "beach"],
+  "Portsmouth": ["national park", "fort", "river", "beach", "wetland", "historical site", "university"],
+  "Berekua": ["beach", "heritage site", "river", "waterfall", "hill"],
+  "Marigot": ["beach", "river", "historical site", "airport"],
+  "Mahaut": ["beach", "river", "waterfall", "hill"],
+  "Saint Joseph": ["beach", "river", "historical site"],
+  "Wesley": ["beach", "river", "waterfall", "hill"],
+  "Salisbury": ["beach", "scuba diving", "river", "historical site"],
+  "Canefield": ["airport", "beach", "river"],
+  "La Plaine": ["waterfall", "beach", "river", "hill"],
+  "Castle Bruce": ["pool", "waterfall", "river", "historical site"],
+  "Pointe Michel": ["reef", "beach", "snorkeling", "hot spring"],
+  "Soufrière": ["bay", "hot spring", "beach", "volcano"],
+  "Calibishie": ["beach", "rock formation", "river", "waterfall"],
+  "Woodford Hill": ["beach", "river", "hill"],
+  "Massacre": ["river", "beach", "historical site"],
+  "Loubiere": ["beach", "river", "waterfall"],
+  "Lagoon": ["beach", "river", "wetland"],
+  "Jimmit": ["river", "beach", "hill"],
+  "Castle Comfort": ["beach", "reef", "snorkeling"]
+}

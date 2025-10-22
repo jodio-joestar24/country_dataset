@@ -1,0 +1,10 @@
+{
+  "Oranjestad": ["Urban", "Cultural", "Historical Sites", "Beaches", "Harbor", "Shopping"],
+  "Savaneta": ["Historical Sites", "Cultural", "Beaches", "Snorkeling", "Nature"],
+  "Kralendijk": ["Urban", "Cultural", "Historical Sites", "Beaches", "Diving", "Harbor"],
+  "Philipsburg": ["Urban", "Cultural", "Historical Sites", "Beaches", "Shopping", "Harbor"],
+  "Marigot": ["Urban", "Cultural", "Markets", "Beaches", "Architecture", "Harbor"],
+  "Grand Case": ["Cultural", "Beaches", "Restaurants", "Watersports", "Fishing Village"],
+  "Orient Village": ["Beaches", "Watersports", "Cultural", "Nude Beach", "Restaurants"],
+  "Cupecoy": ["Beaches", "Nature", "Cliffs", "Sunsets", "Caves"]
+}

@@ -1,0 +1,12 @@
+{
+  "Thimphu": ["Mountains", "Cultural", "Historical Sites", "Monasteries", "Adventure"],
+  "Phuntsholing": ["Urban", "Markets", "Cultural", "Gateway", "Rivers"],
+  "Paro": ["Mountains", "Historical Sites", "Monasteries", "Airports", "Adventure"],
+  "Gelephu": ["Plains", "Markets", "Cultural", "Rivers", "Forests"],
+  "Samdrup Jongkhar": ["Urban", "Markets", "Cultural", "Rivers", "Forests"],
+  "Wangdue Phodrang": ["Mountains", "Rivers", "Historical Sites", "Cultural", "Festivals"],
+  "Punakha": ["Rivers", "Historical Sites", "Monasteries", "Cultural", "Valleys"],
+  "Jakar": ["Mountains", "Historical Sites", "Monasteries", "Cultural", "Valleys"],
+  "Nganglam": ["Forests", "Rivers", "Nature", "Cultural", "Markets"],
+  "Samtse": ["Hills", "Forests", "Rivers", "Cultural", "Markets"]
+}

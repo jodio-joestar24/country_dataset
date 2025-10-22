@@ -1,0 +1,14 @@
+{
+  "George Town": ["Urban", "Cultural", "Historical Sites", "Harbors", "Museums", "Beaches", "Shopping Districts", "Financial Centers"],
+  "West Bay": ["Urban", "Beaches", "Marine Parks", "Diving Sites", "Cultural", "Historical Sites", "Mangroves"],
+  "Bodden Town": ["Urban", "Historical Sites", "Beaches", "Cultural", "Lighthouses", "Cemeteries"],
+  "East End": ["Rural", "Beaches", "Nature Reserves", "Mangroves", "Hiking Trails", "Historical Sites"],
+  "North Side": ["Rural", "Beaches", "Nature Trails", "Cultural", "Historical Sites"],
+  "South Sound": ["Urban", "Residential", "Beaches", "Parks", "Cultural"],
+  "Lower Valley": ["Rural", "Cultural", "Historical Sites", "Beaches"],
+  "West Bay Town": ["Urban", "Cultural", "Beaches", "Diving Sites", "Parks"],
+  "Frank Sound": ["Rural", "Nature Reserves", "Beaches", "Mangroves"],
+  "Little Cayman": ["Rural", "Beaches", "Bird Sanctuaries", "Diving Sites", "Nature Trails"],
+  "Bloody Bay": ["Rural", "Beaches", "Diving Sites", "Nature Reserves"],
+  "Cayman Brac": ["Rural", "Beaches", "Caves", "Cliffs", "Diving Sites", "Bird Watching"]
+}
