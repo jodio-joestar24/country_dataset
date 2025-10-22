@@ -1,0 +1,22 @@
+{
+  "Asmara": ["Urban", "Cultural", "Historical Sites", "Plateaus", "Museums", "Parks", "Pyramids", "Churches", "Mosques", "Markets", "Architecture", "Breweries"],
+  "Keren": ["Urban", "Cultural", "Historical Sites", "Mountains", "Valleys", "Markets", "Mosques", "Churches", "Cemeteries", "Monasteries"],
+  "Teseney": ["Urban", "Cultural", "Historical Sites", "Rivers", "Plains", "Markets", "Reservoirs", "Hills"],
+  "Mendefera": ["Urban", "Cultural", "Historical Sites", "Highlands", "Markets", "Churches", "Graveyards"],
+  "Agordat": ["Urban", "Cultural", "Historical Sites", "Rivers", "Valleys", "Mosques", "Markets", "Plantations"],
+  "Assab": ["Urban", "Coastal", "Ports", "Volcanoes", "Beaches", "Islands", "Churches"],
+  "Massawa": ["Urban", "Coastal", "Historical Sites", "Ports", "Islands", "Beaches", "Architecture", "Mosques", "Churches", "Memorials"],
+  "Adi Quala": ["Urban", "Cultural", "Historical Sites", "Highlands", "Churches", "Markets", "Mausoleums"],
+  "Senafe": ["Urban", "Cultural", "Historical Sites", "Mountains", "Calderas", "Ancient Ruins"],
+  "Dekemhare": ["Urban", "Cultural", "Historical Sites", "Architecture", "Churches", "Vineyards", "Solar Plants"],
+  "Segheneyti": ["Urban", "Cultural", "Historical Sites", "Escarpments", "Plantations"],
+  "Nakfa": ["Urban", "Cultural", "Historical Sites", "Mountains", "War Memorials", "Wildlife Reserves"],
+  "Adi Keyh": ["Urban", "Cultural", "Historical Sites", "Mountains", "Colleges", "Ancient Ruins"],
+  "Barentu": ["Urban", "Cultural", "Historical Sites", "Markets", "Rivers"],
+  "Beilul": ["Coastal", "Cultural", "Historical Sites", "Ports"],
+  "Edd": ["Coastal", "Cultural", "Historical Sites", "Ports"],
+  "Ghinda": ["Urban", "Cultural", "Historical Sites", "Springs", "Plantations", "Railways"],
+  "Mersa Fatuma": ["Coastal", "Cultural", "Historical Sites", "Ports", "Peninsulas", "Islands"],
+  "Himberti": ["Rural", "Highlands", "Mountains"],
+  "Nefasit": ["Urban", "Cultural", "Historical Sites", "Mountains", "Monasteries", "Railways"]
+}

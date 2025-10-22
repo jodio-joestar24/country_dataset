@@ -1,0 +1,20 @@
+{
+  "Guayaquil": ["Urban", "Cultural", "Historical Sites", "Rivers", "Ports", "Museums", "Parks", "Waterfronts", "Neighborhoods", "Cathedrals", "Palaces", "Plazas", "Bridges", "Wetlands", "Mangroves"],
+  "Quito": ["Urban", "Cultural", "Historical Sites", "Volcanoes", "Museums", "Parks", "Churches"],
+  "Cuenca": ["Urban", "Cultural", "Historical Sites", "Rivers", "Museums", "Parks", "Cathedrals", "Archaeological Ruins", "National Parks", "Monasteries", "Bridges", "Trams", "Miradors"],
+  "Santo Domingo": ["Urban", "Cultural", "Historical Sites", "Parks", "Rainforests", "Religious", "Monuments"],
+  "Machala": ["Urban", "Ports", "Cathedrals", "Parks", "Monuments", "Beaches", "Islands"],
+  "Durán": ["Urban", "Rivers", "Bridges", "Islands", "Railroads", "Boardwalks", "Avenues"],
+  "Manta": ["Urban", "Coastal", "Seaports", "Beaches", "Monuments", "Museums", "Historical Sites", "Scenic Boardwalks", "Airports", "Military Bases", "Cultural Festivals"],
+  "Portoviejo": ["Urban", "Parks", "Botanical Gardens", "Cathedrals", "Historical Monuments", "Archaeological Sites", "Ecological Reserves", "Handicraft Workshops"],
+  "Ibarra": ["Urban", "Cultural", "Historical Sites", "Volcanoes", "Lagoons", "Churches"],
+  "Quevedo": ["Urban", "Parks", "Rivers", "Bridges", "Avenues", "Boardwalks"],
+  "Loja": ["Urban", "Cultural", "Historical Sites", "Rivers", "National Parks", "Churches", "Monuments", "Parks", "Botanical Gardens"],
+  "Ambato": ["Urban", "Cultural", "Historical Sites", "Rivers", "Mountains", "Volcanoes", "Botanical Gardens", "Parks", "Cathedrals", "Monuments", "Libraries", "Festivals"],
+  "Esmeraldas": ["Coastal", "Beaches", "Rivers", "Virgin Forests", "Archaeological Sites", "Fishing Ports", "Oil Refineries", "Agricultural Hubs"],
+  "Riobamba": ["Urban", "Cultural", "Historical Sites", "Museums", "Volcanoes", "Parks", "Railways", "Bullrings"],
+  "Milagro": ["Urban", "Religious", "Monuments", "Avenues", "Streets", "Agricultural"],
+  "Latacunga": ["Urban", "Cultural", "Historical Sites", "Parks", "Volcanoes", "Churches", "Squares", "Rivers"],
+  "La Libertad": ["Urban", "Coastal", "Industrial Sites"],
+  "Babahoyo": ["Urban", "Rivers", "Parks", "Cultural", "Historical Sites", "Bridges", "Boardwalks", "Agricultural", "Festivals"]
+}

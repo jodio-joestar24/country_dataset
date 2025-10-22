@@ -1,0 +1,10 @@
+{
+"St. George's": ["Urban", "Cultural", "Historical Sites", "Beaches", "Fortresses", "Museums", "Waterfalls", "Ports", "Gardens"],
+"Gouyave": ["Urban", "Cultural", "Historical Sites", "Beaches", "Nutmeg Stations", "Waterfalls", "Rum Distilleries", "Parks"],
+"Grenville": ["Urban", "Cultural", "National Parks", "Rum Distilleries", "Rainforests", "Beaches", "Waterfalls"],
+"St. David's": ["Urban", "Cultural", "Gardens", "Nature Centers", "Beaches", "Estates"],
+"Victoria": ["Urban", "Cultural", "Beaches", "Estates", "Waterfalls", "National Parks"],
+"Sauteurs": ["Urban", "Cultural", "Historical Sites", "Cliffs", "National Parks", "Beaches", "Chocolate Factories"],
+"Hillsborough": ["Urban", "Cultural", "Museums", "Beaches", "Diving Sites", "Coral Reefs"],
+"Petite Martinique": ["Urban", "Cultural", "Beaches", "Festivals", "Diving Sites", "Fishing Villages"]
+}

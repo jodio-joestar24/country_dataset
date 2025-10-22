@@ -1,0 +1,20 @@
+{
+"Guatemala City": ["Urban", "Cultural", "Historical Sites", "Museums", "Markets", "Cathedrals", "Parks", "Volcanoes"],
+"Mixco": ["Urban", "Residential", "Historical Sites", "Parks", "Mayan Ruins", "Markets"],
+"Villa Nueva": ["Urban", "Residential", "Industrial Areas", "Parks", "Markets"],
+"Quetzaltenango": ["Urban", "Cultural", "Historical Sites", "Volcanoes", "Hot Springs", "Markets", "Museums"],
+"Chimaltenango": ["Urban", "Cultural", "Markets", "Volcanoes", "Historical Sites", "Parks"],
+"Huehuetenango": ["Urban", "Cultural", "Mayan Ruins", "Mountains", "Markets", "Historical Sites"],
+"Puerto Barrios": ["Urban", "Ports", "Beaches", "Banana Plantations", "Historical Sites", "Markets"],
+"Chichicastenango": ["Urban", "Cultural", "Markets", "Churches", "Mayan Culture", "Historical Sites"],
+"Antigua Guatemala": ["Urban", "Cultural", "Historical Sites", "Volcanoes", "Colonial Architecture", "UNESCO Sites", "Museums"],
+"Sololá": ["Urban", "Cultural", "Markets", "Lakes", "Mountains", "Indigenous Villages"],
+"Flores": ["Urban", "Cultural", "Lakes", "Mayan Ruins", "Islands", "Historical Sites"],
+"Livingston": ["Urban", "Cultural", "Beaches", "Rivers", "Garifuna Culture", "Markets"],
+"Amatitlán": ["Lake", "Volcanoes", "Fishing Spots", "Recreational Areas", "Hot Springs"],
+"Atitlán": ["Lake", "Volcanoes", "Indigenous Villages", "Scenic Views", "Boating Areas"],
+"Ayarza, Laguna de": ["Lake", "Crater Lake", "Fishing Spots", "Scenic Areas"],
+"El Golfete": ["Lake", "Rivers", "Mangroves", "Wildlife Areas", "Boating"],
+"Izabal": ["Lake", "Castles", "Hot Springs", "Fishing Spots", "Beaches"],
+"Peten Itzá": ["Lake", "Islands", "Mayan Ruins", "Wildlife Areas", "Boating"]
+}

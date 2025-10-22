@@ -1,0 +1,15 @@
+{
+"Bissau": ["Urban", "Cultural", "Historical Sites", "Ports", "Markets", "Beaches", "Museums", "Government Buildings"],
+"Gabú": ["Urban", "Cultural", "Markets", "Mosques", "Savannas", "Historical Sites"],
+"Bafatá": ["Urban", "Cultural", "Markets", "Rivers", "Mosques", "Historical Sites"],
+"Canchungo": ["Urban", "Cultural", "Beaches", "Mangroves", "Markets", "Rivers"],
+"Bissorã": ["Urban", "Cultural", "Markets", "Forests", "Rivers", "Agricultural Areas"],
+"Farim": ["Urban", "Cultural", "Rivers", "Bridges", "Markets", "Historical Sites"],
+"Mansôa": ["Urban", "Cultural", "Markets", "Rivers", "Agricultural Areas", "Historical Sites"],
+"Buba": ["Urban", "Cultural", "Rivers", "National Parks", "Markets", "Forests"],
+"Cacheu": ["Urban", "Cultural", "Mangroves", "National Parks", "Forts", "Historical Sites", "Beaches"],
+"Quinhámel": ["Urban", "Cultural", "Beaches", "Mangroves", "Markets", "Rivers"],
+"Quebo": ["Urban", "Cultural", "Rivers", "Forests", "Markets", "Agricultural Areas"],
+"Catió": ["Urban", "Cultural", "Mangroves", "Beaches", "Rivers", "Markets"],
+"Bolama": ["Urban", "Cultural", "Beaches", "Mangroves", "Historical Sites", "Islands"]
+}

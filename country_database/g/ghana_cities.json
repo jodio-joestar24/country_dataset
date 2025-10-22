@@ -1,0 +1,18 @@
+{
+"Accra": ["Urban", "Cultural", "Historical Sites", "Beaches", "Markets", "Museums", "Government Buildings", "Nightlife"],
+"Kumasi": ["Urban", "Cultural", "Historical Sites", "Markets", "Palaces", "Gardens", "Ashanti Heritage"],
+"Tamale": ["Urban", "Cultural", "Markets", "Mosques", "Savanna", "Northern Cuisine"],
+"Sekondi-Takoradi": ["Urban", "Cultural", "Beaches", "Harbors", "Historical Sites", "Oil Fields"],
+"Sunyani": ["Urban", "Cultural", "Parks", "Forests", "Markets", "Brong-Ahafo Highlands"],
+"Cape Coast": ["Urban", "Cultural", "Historical Sites", "Castles", "Beaches", "Fortresses"],
+"Obuasi": ["Urban", "Cultural", "Mines", "Parks", "Gold Mining Heritage"],
+"Teshie": ["Urban", "Cultural", "Beaches", "Markets", "Nungua Pottery"],
+"Tema": ["Urban", "Cultural", "Harbors", "Industrial", "Beaches", "Markets"],
+"Koforidua": ["Urban", "Cultural", "Markets", "Cuckoo Hills", "Beaches", "Eastern Region Highlands"],
+"Ho": ["Urban", "Cultural", "Historical Sites", "Mountains", "Yam Festivals", "Volta Region"],
+"Bolgatanga": ["Urban", "Cultural", "Markets", "Crocodile Ponds", "Savanna", "Upper East Crafts"],
+"Wa": ["Urban", "Cultural", "Historical Sites", "Markets", "Upper West Savanna"],
+"Kumasi": ["Urban", "Cultural", "Historical Sites", "Markets", "Palaces", "Gardens", "Ashanti Heritage"],
+"Mankessim": ["Urban", "Cultural", "Markets", "Historical Sites", "Central Region Beaches"],
+"Konongo": ["Urban", "Cultural", "Mines", "Gold Mining", "Ashanti Region"]
+}

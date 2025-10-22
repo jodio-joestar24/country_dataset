@@ -1,0 +1,12 @@
+{
+  "Suva": ["Urban", "Cultural", "Historical Sites", "Harbors", "Museums", "Parks", "Markets", "Gardens", "Sports Venues"],
+  "Lautoka": ["Urban", "Markets", "Harbors", "Historical Sites", "Cultural"],
+  "Nasinu": ["Urban", "Residential", "Educational", "Governmental"],
+  "Nausori": ["Urban", "Historical Sites", "Markets", "Airports", "Sports", "Parks", "Rivers"],
+  "Nadi": ["Urban", "Cultural", "Historical Sites", "Airports", "Temples"],
+  "Labasa": ["Urban", "Cultural", "Historical Sites", "Markets", "Airports", "Parks", "Rivers"],
+  "Lami": ["Urban", "Historical Sites", "Beaches"],
+  "Sigatoka": ["Urban", "Cultural", "Historical Sites", "Beaches", "Parks", "Rivers", "Sand Dunes", "Temples"],
+  "Ba": ["Urban", "Cultural", "Historical Sites", "Rivers", "Mosques"],
+  "Rakiraki": ["Urban", "Historical Sites", "Cultural", "Harbors", "Mountains", "Rivers", "Islands"]
+}

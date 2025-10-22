@@ -1,0 +1,18 @@
+{
+  "Cayenne": ["Urban", "Cultural", "Historical Sites", "Beaches", "Islands", "Parks", "Forts", "Botanical Gardens"],
+  "Matoury": ["Urban", "Nature Reserves", "Hiking Trails", "Historical Sites", "Shopping Centers", "Botanical Gardens", "Hills"],
+  "Saint-Laurent-du-Maroni": ["Urban", "Historical Sites", "Prisons", "Rivers", "Border Town", "Markets"],
+  "Kourou": ["Urban", "Space Centers", "Islands", "Nature Reserves", "Dams", "Archaeological Sites", "Monkeys"],
+  "Remire-Montjoly": ["Urban", "Beaches", "Hiking Trails", "Historical Sites", "Archaeological Sites", "Engraved Rocks"],
+  "Macouria": ["Urban", "Zoos", "Botanical Gardens", "Creeks", "Churches", "Theaters", "Ranches"],
+  "Maripasoula": ["Rural", "Rivers", "Rainforests", "Waterfalls", "Indigenous Villages", "Hiking Trails"],
+  "Mana": ["Rural", "Rivers", "Nature Reserves", "Mangroves", "Historical Sites"],
+  "Apatou": ["Rural", "Rivers", "Rainforests", "Colonial Sites", "Nature Trails"],
+  "Grand-Santi": ["Rural", "Rivers", "Indigenous Villages", "Nature Reserves", "Rainforests"],
+  "Sinnamary": ["Rural", "Rivers", "Nature Areas", "Wildlife Reserves", "Creeks"],
+  "Saint-Georges": ["Urban", "Rivers", "Bridges", "Border Town", "Rafting Sites"],
+  "Roura": ["Rural", "Marshes", "Nature Reserves", "Rainforests", "Rivers"],
+  "Iracoubo": ["Rural", "Churches", "Historical Sites", "Coastal Areas"],
+  "Camopi": ["Rural", "Rivers", "Rainforests", "Indigenous Villages", "National Parks"],
+  "Awala-Yalimapo": ["Rural", "Beaches", "Rivers", "Indigenous Villages", "Turtle Nesting Sites", "Sand Dunes"]
+}

@@ -1,0 +1,21 @@
+{
+"Agana Heights": ["Urban", "Residential", "Historical Sites", "Parks", "Scenic Views", "Government Areas"],
+"Asan-Maina": ["Urban", "Cultural", "Beaches", "Historical Sites", "War Memorials", "Parks", "Rivers"],
+"Barrigada": ["Urban", "Residential", "Historical Sites", "Parks", "Military Bases", "Forests"],
+"Chalan Pago-Ordot": ["Urban", "Residential", "Rivers", "Parks", "Historical Sites", "Caves"],
+"Dededo": ["Urban", "Residential", "Shopping Centers", "Parks", "Military Bases", "Micronesia Mall"],
+"Hågat": ["Urban", "Cultural", "Beaches", "Marine Preserves", "Historical Sites", "Parks"],
+"Hagåtña": ["Urban", "Cultural", "Historical Sites", "Government Buildings", "Museums", "Cathedrals", "Plazas"],
+"Humåtak": ["Urban", "Cultural", "Bays", "Historical Sites", "Cliffs", "Beaches", "Magellan's Landing"],
+"Inalåhan": ["Urban", "Cultural", "Natural Pools", "Caves", "Historical Villages", "Beaches", "Parks"],
+"Malesso'": ["Urban", "Cultural", "Beaches", "Piers", "Canoe Races", "Historical Sites", "Bays"],
+"Mangilao": ["Urban", "Educational", "University Campuses", "Parks", "Golf Courses", "Historical Sites"],
+"Mongmong-Toto-Maite": ["Urban", "Residential", "Parks", "Historical Sites", "Rivers"],
+"Piti": ["Urban", "Cultural", "Marine Parks", "Diving Sites", "Historical Sites", "Beaches", "Observatories"],
+"Sånta Rita-Sumai": ["Urban", "Residential", "Military Bases", "Parks", "Historical Sites", "Waterfalls"],
+"Sinajana": ["Urban", "Residential", "Parks", "Historical Sites", "Community Centers"],
+"Talo'fo'fo": ["Urban", "Cultural", "Waterfalls", "Caves", "Parks", "Beaches", "Historical Sites"],
+"Tamuning": ["Urban", "Commercial", "Beaches", "Hotels", "Shopping Districts", "Parks", "Aquariums"],
+"Yigo": ["Urban", "Residential", "Military Bases", "Forests", "Parks", "Historical Sites"],
+"Yona": ["Urban", "Cultural", "Cliffs", "Valleys", "Historical Sites", "Parks", "Waterfalls"]
+}

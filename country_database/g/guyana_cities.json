@@ -1,0 +1,12 @@
+{
+"Georgetown": ["Urban", "Cultural", "Historical Sites", "Museums", "Markets", "Botanical Gardens", "Rivers", "Forts", "Cathedrals"],
+"Linden": ["Urban", "Mining Town", "Rivers", "Waterfalls", "Forests", "Historical Sites", "Markets"],
+"New Amsterdam": ["Urban", "Cultural", "Historical Sites", "Canals", "Markets", "Rivers", "Museums"],
+"Corriverton": ["Urban", "Border Town", "Markets", "Rivers", "Ferry Ports", "Agricultural Areas"],
+"Bartica": ["Urban", "Mining Town", "Rivers", "Waterfalls", "Gateway to Interior", "Markets", "Historical Sites"],
+"Mahaica": ["Village", "Agricultural", "Rivers", "Markets", "Coastal Areas"],
+"Timehri": ["Village", "Airport", "Rivers", "Forests", "Historical Sites"],
+"Rose Hall": ["Village", "Sugar Estates", "Historical Sites", "Markets", "Coastal Areas"],
+"Parika": ["Village", "Ferry Terminal", "Markets", "Rivers", "Agricultural Areas"],
+"Triumph": ["Village", "Agricultural", "Canals", "Markets", "Coastal Areas"]
+}

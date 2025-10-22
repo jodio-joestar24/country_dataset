@@ -1,0 +1,12 @@
+{
+  "Libreville": ["Urban", "Coastal", "Cultural", "Historical Sites", "Beaches", "Rivers", "Estuaries", "Churches", "Mosques", "Cathedrals", "Palaces", "Markets"],
+  "Port-Gentil": ["Urban", "Coastal", "Cultural", "Historical Sites", "Beaches", "Deltas", "Rivers", "Churches", "Zoos", "Casinos", "Golf Courses"],
+  "Franceville": ["Urban", "Cultural", "Historical Sites", "Rivers", "Waterfalls", "Churches", "Statues", "Markets", "Golf Courses"],
+  "Owendo": ["Urban", "Coastal", "Ports", "Industrial Areas"],
+  "Oyem": ["Urban", "Cultural", "Plateaus", "Rivers"],
+  "Moanda": ["Urban", "Industrial", "Rivers", "Swamps", "Plateaus", "Mountains"],
+  "Ntoum": ["Urban", "Industrial Areas"],
+  "Lambaréné": ["Urban", "Cultural", "Rainforests", "Rivers", "Hospitals"],
+  "Mouila": ["Urban", "Cultural", "Rivers", "Lakes"],
+  "Akanda": ["Urban", "Coastal", "National Parks", "Mangroves", "Beaches"]
+}
